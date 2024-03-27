@@ -15,7 +15,7 @@ The Emergency Contact Network application is designed to help individuals find a
 To get the application running on your local machine, follow these steps:
 
 1. **Clone the Repository**
-     git clone https://github.com/yourusername/emergency-contact-network.git
+     git clone https://github.com/patricko5/safety-application
 2. **Install Dependencies**
       Navigate to the project directory and run:
       npm install
